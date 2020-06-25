@@ -60,7 +60,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>com.hongkuncc.AppMain</mainClass>
+                            <mainClass>com.hongkuncc.appclient.AppMain</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
