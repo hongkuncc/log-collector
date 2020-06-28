@@ -138,7 +138,6 @@ public class AppMain {
 //      用户id
         appBase.setUid(s_uid + "");
         s_uid++;
-
 //    程序版本号 5,6等
         appBase.setVc("" + rand.nextInt(20));
 //    程序版本名 v1.1.1
